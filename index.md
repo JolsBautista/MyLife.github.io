@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to Julius' Blog
 
-You can use the [editor on GitHub](https://github.com/JolsBautista/mylife.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you will know more about him.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Julius Andrei B. Bautista. born on September 10, 2006. Originally, I'm from Mandaluyong, Manila, and we moved here to Bicol around 2010.
 
-```markdown
-Syntax highlighted code block
+Growing up, I like playing games. And I like her too
 
-# Header 1
-## Header 2
-### Header 3
+so
 
-- Bulleted
-- List
+help
 
-1. Numbered
-2. List
+me
 
-**Bold** and _Italic_ and `Code` text
+pls
 
-[Link](url) and ![Image](src)
-```
+am
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+suffering
 
-### Jekyll Themes
+### Social Medias
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JolsBautista/mylife.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Instagram: @typicalandrei
+Facebook: Andrei Bautista
+Twitter: @jolswashere
+Steam: Undead
+Spotify: jols
+VALORANT: 
+- Undead#6551
+- Sioms#6518
+- kou#2800
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![274814891_2872472166325582_2651942903329175187_n (1)](https://user-images.githubusercontent.com/102911230/161437556-a1a76a42-41f6-4b04-a3a9-6587b7d100b7.jpg)
