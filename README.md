@@ -23,17 +23,17 @@ suffering
 
 ### Social Medias
 
-Instagram: @typicalandrei
+- Instagram: @typicalandrei
 
-Facebook: Andrei Bautista
+- Facebook: Andrei Bautista
 
-Twitter: @jolswashere
+- Twitter: @jolswashere
 
-Steam: Undead
+- Steam: Undead
 
-Spotify: jols
+- Spotify: jols
 
-VALORANT: 
+- VALORANT: 
 - Undead#6551
 - Sioms#6518
 - kou#2800
