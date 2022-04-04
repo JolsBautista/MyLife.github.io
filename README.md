@@ -38,4 +38,17 @@ suffering
 - Sioms#6518
 - kou#2800
 
-![274814891_2872472166325582_2651942903329175187_n (1)](https://user-images.githubusercontent.com/102911230/161437556-a1a76a42-41f6-4b04-a3a9-6587b7d100b7.jpg)
+### Facts about me
+
+- had a 0.85 kda rate last year in Valorant
+
+- I'm 5'7 and a half
+
+- ḫ̸̢̡̳̰͈̱̖̤̐e̴̢̲̮̦̋́̀̌l̴̫͈̞͕̑̒̏́̋̌͘p̴̫̙̞̣̘͎̓̈́̂̓ ̵̧̧͔̤̩͓͓̹̤̝̫̯̓̎͒̆͝p̶̬̉̓̈̈́̄͆͘l̵̤̳̥̯͇͎̇̊͆͊́̌͝͝s̶̨̛̬͉̞͉̝̦̯̞̜̬̙̖͈̈́̿̄̿͂̇̾́̏́̓͘͠
+
+- and I'm a cheerful person
+
+![274814891_2872472166325582_2651942903329175187_n (1)](https://user-images.githubusercontent.com/102911230/161456941-83cead77-77ee-4d1a-82c3-fc3f620193b4.jpg)
+
+
+
